@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T11:26:41.373Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="TCqgtkRtg8RVuCcOaHxJ" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T11:36:07.181Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ouocAKhKUHFrST_gc1vs" version="14.8.0" type="github">
   <diagram id="gM6LWdryBIaIJu2o6Tqh" name="Page-1">
     <mxGraphModel dx="1373" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,13 +42,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kot2QHPUo4j3bU3xekO4-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ trái&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kot2QHPUo4j3bU3xekO4-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ phải&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kot2QHPUo4j3bU3xekO4-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Đi thẳng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kot2QHPUo4j3bU3xekO4-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ phải&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kot2QHPUo4j3bU3xekO4-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ trái&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kot2QHPUo4j3bU3xekO4-15" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kot2QHPUo4j3bU3xekO4-12">
@@ -126,13 +126,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kot2QHPUo4j3bU3xekO4-44" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ trái&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kot2QHPUo4j3bU3xekO4-44" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ phải&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="160" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kot2QHPUo4j3bU3xekO4-45" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Đi thẳng&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kot2QHPUo4j3bU3xekO4-46" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ phải&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="kot2QHPUo4j3bU3xekO4-46" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Rẽ trái&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kot2QHPUo4j3bU3xekO4-47" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kot2QHPUo4j3bU3xekO4-45">
