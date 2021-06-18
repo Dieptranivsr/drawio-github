@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T09:27:13.260Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.7.7" etag="eTwElNjEHBro53WK0dFZ" type="github"><diagram id="xefSnKeaQwo-I6Wb9cvb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-18T09:31:36.358Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="8_moT5uDpswNkjey68Zd" version="14.7.7" type="github">
+  <diagram id="xefSnKeaQwo-I6Wb9cvb" name="Page-1">
+    <mxGraphModel dx="1373" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JplTg-2ZCXmD6sLREcR1-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;ROS &lt;br&gt;Master&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JplTg-2ZCXmD6sLREcR1-2" value="Node : Image Processing (C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JplTg-2ZCXmD6sLREcR1-3" value="Node : Control Motor&lt;br&gt;(python)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JplTg-2ZCXmD6sLREcR1-4" value="Topic&amp;nbsp;&lt;br&gt;- name topic&amp;nbsp;&amp;nbsp;&lt;br&gt;- message&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="420" width="170" height="125" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
