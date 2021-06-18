@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T09:42:42.131Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="aOdO1fm34vMmNA9N0fCp" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T09:46:57.181Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="NhnVc1zaPeONi1KNaRmr" version="14.7.7" type="github">
   <diagram id="xefSnKeaQwo-I6Wb9cvb" name="Page-1">
     <mxGraphModel dx="1373" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,19 +11,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-2" value="Node : Image Processing (C++)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="30" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-3" value="Node : Control Motor&lt;br&gt;(python)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="455" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JplTg-2ZCXmD6sLREcR1-4" target="JplTg-2ZCXmD6sLREcR1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JplTg-2ZCXmD6sLREcR1-4" value="Topic&amp;nbsp;&lt;br&gt;- name topic&amp;nbsp;&amp;nbsp;&lt;br&gt;- message&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="417.5" width="170" height="125" as="geometry" />
+        <mxCell id="JplTg-2ZCXmD6sLREcR1-4" value="Topic&amp;nbsp;&lt;br&gt;- name topic : /imageprocessing&amp;nbsp;&lt;br&gt;- message : distance, angle&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-7" value="Publishing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="40" height="20" as="geometry" />
+          <mxGeometry x="180" y="510" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-8" value="Callback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="500" width="40" height="20" as="geometry" />
@@ -34,7 +34,6 @@
             <mxPoint x="180" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="420" />
-              <mxPoint x="290" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,17 +42,17 @@
             <mxPoint x="540" y="290" as="sourcePoint" />
             <mxPoint x="440" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="410" />
+              <mxPoint x="490" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-14" value="Subscribe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="397.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="410" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JplTg-2ZCXmD6sLREcR1-15" value="Advertising" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="397.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="190" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JplTg-2ZCXmD6sLREcR1-16" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JplTg-2ZCXmD6sLREcR1-1">
+        <mxCell id="JplTg-2ZCXmD6sLREcR1-16" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.539;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JplTg-2ZCXmD6sLREcR1-4" target="JplTg-2ZCXmD6sLREcR1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="430" as="sourcePoint" />
             <mxPoint x="410" y="380" as="targetPoint" />
@@ -67,7 +66,7 @@
             <mxPoint x="200" y="330" as="sourcePoint" />
             <mxPoint x="250" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="300" />
+              <mxPoint x="60" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,7 +75,7 @@
             <mxPoint x="640" y="330" as="sourcePoint" />
             <mxPoint x="690" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="647" y="300" />
+              <mxPoint x="660" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
